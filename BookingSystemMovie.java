@@ -114,7 +114,7 @@ class BookingSystem {
     }
 }
 
-public class Main {
+public class BookingSystemMovie {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         BookingSystem bookingSystem = new BookingSystem();
